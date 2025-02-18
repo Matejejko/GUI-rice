@@ -219,7 +219,8 @@ that would be:<br>
 - [Taskbar auto-hide when maximized](https://windhawk.net/mods/taskbar-auto-hide-when-maximized)   | can be bit buggy at beginning |<br>
 reasoning is this:<br>
 <div align = center>
-<img align="center" width="30%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src9.png" />
+<img align="center" width="100%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src9.png" /><br>
+  this is how full screen looks like
 </div>
 
 
