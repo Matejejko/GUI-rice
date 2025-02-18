@@ -48,7 +48,6 @@
   
 &ensp;[<kbd> <br> Windows settings <br> </kbd>](#Windows-settings)&ensp;
 &ensp;[<kbd> <br> Windhawk <br> </kbd>](#Windhawk)&ensp;
-&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
 ## Windows-settings 
