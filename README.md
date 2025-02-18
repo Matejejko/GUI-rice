@@ -66,32 +66,34 @@
 
 
 ### mouse
-
-extract the file "Bibata-Original-Ice-Right-Windows.zip" -> go inside it -> choose size (i use large) -> find install file 
--> right click -> install -> (yes to any prompts)<br>
+<div align = center>
+extract the file "Bibata-Original-Ice-Right-Windows.zip"<br>
+go inside it -> choose size (I use large) -> find install file -> right click -> install -> (yes to any prompts)<br>
 <br>
-
-then mouse properties should open and apply it self <br>
+then mouse properties should open and the font is automatically choosen <br>
+<br>
 ❗IF NOT go settings -> bluetooth & devices -> mouse -> scroll down -> additional mouse settings -> pointers -> and choose it❗
+</div>
 
 
 ### taskbar 
-
+<div align = center>
 right-click taskbar -> taskbar settings 
 
 there, change setting into this || ps you dont really need to follow 100%
 
-<div align = center>
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr1.png" />
 <br><br></div>
 
-#### coloring
-
-settings -> personalization -> colors -> accent color -> custom colors -> more -> input #655666 -> ok <br>
+### coloring
+<div align = center>
+settings -> personalization -> colors -> accent color -> custom colors -> more -> input #655666 -> ok<br>
+  
 <br>
 go more down ->  <br>
 - "show accent color on start and taskbar" -> on <br>
 - "show accent color on title bars and window borders" -> on
+</div>
 
 ### wallpapers
 
@@ -141,7 +143,6 @@ go to setting and insert
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src4.png" />
 </div>
 <br>
-<br>
 
 ### taskbar-clock-customization
 <br>
@@ -151,26 +152,28 @@ go to setting and insert
 <div align = center>
   ❗ the font will work only after PC reboot ❗
 </div>
+
 3. then go to windhawk -> taskbar clock customization -> Advanced -> Mod settings<br>
 There input text from codes/[taskbar clock customization.txt](https://github.com/Matejejko/GUI-sakura-Win/blob/main/codes/taskbar%20clock%20customization.txt)
-<br>
 <br>
 
 ### windows-11-notification-center-styler
 <br>
 
-go to setting -> Theme -> and choose "TranslucentShell"
+<div align = center>go to setting -> Theme -> and choose "TranslucentShell"</div>
 <br>
 
 ### windows-11-start-menu-styler
 <br>
 
-go to setting -> Theme -> and choose "TranslucentStartMenu"
+<div align = center>go to setting -> Theme -> and choose "TranslucentStartMenu"</div>
 <br>
 
 ### Windows-11-Taskbar-Styler
 <br>
 
+<div align = center>
+  
 go to setting -> Advanced -> Mod settings <br>
 There input text from codes/[taskbar customization.txt](https://github.com/Matejejko/GUI-sakura-Win/blob/main/codes/taskbar%20customization.txt)
-
+</div>
