@@ -60,6 +60,7 @@
 &ensp;[<kbd> <br> wallpapers <br> </kbd>](#wallpapers)&ensp;
 &ensp;[<kbd> <br> lockscreen <br> </kbd>](#lockscreen)&ensp;
 &ensp;[<kbd> <br> start <br> </kbd>](#start)&ensp;
+&ensp;[<kbd> <br> cmd <br> </kbd>](#cmd)&ensp;
 <br><br></div>
 
 
@@ -112,6 +113,12 @@ again go to setting -> personalization -> start
 <div align = center>
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr3.png" />
 <br><br></div>
+
+### cmd
+
+open cmd -> right click top bar -> settings -> Defaults 
+T E X T
+
 
 ## Windhawk
 <div align = center>
