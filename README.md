@@ -53,13 +53,13 @@
 ## Windows-settings 
 
 <div align = center>
-  
+
+&ensp;[<kbd> <br> mouse <br> </kbd>](#mouse)&ensp;  
 &ensp;[<kbd> <br> taskbar <br> </kbd>](#taskbar)&ensp;
 &ensp;[<kbd> <br> coloring <br> </kbd>](#coloring)&ensp;
-&ensp;[<kbd> <br> wallpapers <br> </kbd>](#wallpaper)&ensp;
+&ensp;[<kbd> <br> wallpapers <br> </kbd>](#wallpapers)&ensp;
 &ensp;[<kbd> <br> lockscreen <br> </kbd>](#lockscreen)&ensp;
 &ensp;[<kbd> <br> start <br> </kbd>](#start)&ensp;
-&ensp;[<kbd> <br> mouse <br> </kbd>](#mouse)&ensp;
 <br><br></div>
 
 
@@ -116,11 +116,11 @@ again go to setting -> personalization -> start
 ## Windhawk
 <div align = center>
   
+&ensp;[<kbd> <br> Taskbar height and icon size <br> </kbd>](#Taskbar-height-and-icon-size)&ensp;
 &ensp;[<kbd> <br> Taskbar Clock Customization <br> </kbd>](#Taskbar-Clock-Customization)&ensp;
 &ensp;[<kbd> <br> Windows 11 Notification Center Styler <br> </kbd>](#Windows-11-Notification-Center-Styler)&ensp;
 &ensp;[<kbd> <br> Windows 11 Start Menu Styler <br> </kbd>](#Windows-11-Start-Menu-Styler)&ensp;
 &ensp;[<kbd> <br> Windows 11 Taskbar Styler <br> </kbd>](#Windows-11-Taskbar-Styler)&ensp;
-&ensp;[<kbd> <br> Taskbar height and icon size <br> </kbd>](#Taskbar-height-and-icon-size)&ensp;
 <br><br></div>
 
 install the app [here](https://windhawk.net)
