@@ -45,7 +45,7 @@
 <div align = center>
   
 &ensp;[<kbd> <br> Windows settings <br> </kbd>](#Windows-settings)&ensp;
-&ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
+&ensp;[<kbd> <br> Windhawk <br> </kbd>](#Windhawk)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
@@ -98,10 +98,18 @@ again go to setting -> personalization -> start
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr3.png" />
 <br><br></div>
 
-### windhawk
+### Windhawk
 
 install [here](https://windhawk.net)
 
 here install
+
+ - [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
+ - [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+ - [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
+ - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+ - [Taskbar height and icon size](https://windhawk.net/mods/taskbar-icon-size)
+
+
 
 
