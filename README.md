@@ -50,12 +50,30 @@
 <br><br></div>
 
 ### Windows-settings
-taskbar
-```
+
+<div align = center>
+  
+&ensp;[<kbd> <br> taskbar <br> </kbd>](#taskbar)&ensp;
+&ensp;[<kbd> <br> coloring <br> </kbd>](#coloring)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+<br><br></div>
+
+
+#### taskbar 
+
 right-click taskbar -> taskbar settings 
-```
-in there
-```
 
-```
+there, change setting into this || ps you dont really need to follow 100%
 
+<div align = center>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/Screenshot%202025-02-18%20160720.png" />
+<br><br></div>
+
+#### coloring
+
+settings -> personalization -> colors -> accent color -> custom colors -> more -> input #655666 -> ok <br>
+<br>
+go more down ->  <br>
+- "show accent color on start and taskbar" -> on <br>
+- "show accent color on title bars and window borders" -> on
+          
