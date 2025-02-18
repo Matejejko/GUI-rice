@@ -68,7 +68,7 @@ right-click taskbar -> taskbar settings
 there, change setting into this || ps you dont really need to follow 100%
 
 <div align = center>
-<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/Screenshot%202025-02-18%20160720.png" />
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr1.png" />
 <br><br></div>
 
 #### coloring
@@ -88,11 +88,14 @@ ps i need a recomendation to upload the live wallpaper please do send recomendat
 
 settings -> personalization -> lockscreen<br>
 <div align = center>
-<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/Screenshot%202025-02-18%20164017.png" />
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr2.png" />
 <br><br></div>
 
 ####start
 
 again go to setting -> personalization -> start 
+<div align = center>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr3.png" />
+<br><br></div>
 
 
