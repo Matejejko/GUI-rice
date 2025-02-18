@@ -116,25 +116,47 @@ in the app install
  - [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
  - [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
  - [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
- - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
- 
+ - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler) 
 <br>
 
 ### Taskbar-height-and-icon-size
+<br>
 
 go to setting and insert
 <div align = center>
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src4.png" />
-<br><br></div>
-
-### taskbar-clock-customization
-so extract the "anurati-free-font.zip"
-
-go into "ANURATI Free Font" -> right click the "Anurati-Regular.otf" -> show more options -> install for all users   <br>
-<div align = center>❗ the font will work only after PC reboot ❗<div/>
+</div>
+<br>
 <br>
 
-then go to windhawk -> taskbar clock customization -> Advanced 
-There input
+### taskbar-clock-customization
+<br>
 
+1. extract the "anurati-free-font.zip"
+2. go into "ANURATI Free Font" -> right click the "Anurati-Regular.otf" -> show more options -> install for all users   <br>
+<div align = center>
+  ❗ the font will work only after PC reboot ❗
+</div>
+3. then go to windhawk -> taskbar clock customization -> Advanced -> Mod settings<br>
+There input text from codes/[taskbar clock customization.txt](https://github.com/Matejejko/GUI-sakura-Win/blob/main/codes/taskbar%20clock%20customization.txt)
+<br>
+<br>
+
+### windows-11-notification-center-styler
+<br>
+
+go to setting -> Theme -> and choose "TranslucentShell"
+<br>
+
+### windows-11-start-menu-styler
+<br>
+
+go to setting -> Theme -> and choose "TranslucentStartMenu"
+<br>
+
+### Windows-11-Taskbar-Styler
+<br>
+
+go to setting -> Advanced -> Mod settings <br>
+There input text from codes/[taskbar clock customization.txt](https://github.com/Matejejko/GUI-sakura-Win/blob/main/codes/taskbar%20clock%20customization.txt)
 
