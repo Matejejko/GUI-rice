@@ -48,6 +48,7 @@
   
 &ensp;[<kbd> <br> Windows settings <br> </kbd>](#Windows-settings)&ensp;
 &ensp;[<kbd> <br> Windhawk <br> </kbd>](#Windhawk)&ensp;
+&ensp;[<kbd> <br> Files <br> </kbd>](#Files)&ensp;
 <br><br></div>
 
 ## Windows-settings 
@@ -117,7 +118,15 @@ again go to setting -> personalization -> start
 ### cmd
 
 open cmd -> right click top bar -> settings -> Defaults 
-T E X T
+<div align = center>
+T E X T<br>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src5.png" /><br>
+<br>
+T E X T  F O R M A T || T R A N S P A R E N C Y<br>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src6.png" />
+ 
+<br><br></div>
+
 
 
 ## Windhawk
@@ -183,3 +192,12 @@ There input text from codes/[taskbar clock customization.txt](https://github.com
 go to setting -> Advanced -> Mod settings <br>
 There input text from codes/[taskbar customization.txt](https://github.com/Matejejko/GUI-sakura-Win/blob/main/codes/taskbar%20customization.txt)
 </div>
+<br>
+<br>
+
+## Files
+
+go [here](https://files.community/) -> press Download -> Classic installer
+
+
+
