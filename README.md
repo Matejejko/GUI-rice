@@ -1,5 +1,7 @@
 <div align = center>
 
+<div align = center max-width: 50px><img src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/gift.git.gif"><br><br>
+
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
 &ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
