@@ -158,5 +158,5 @@ go to setting -> Theme -> and choose "TranslucentStartMenu"
 <br>
 
 go to setting -> Advanced -> Mod settings <br>
-There input text from codes/[taskbar clock customization.txt](https://github.com/Matejejko/GUI-sakura-Win/blob/main/codes/taskbar%20clock%20customization.txt)
+There input text from codes/[taskbar customization.txt](https://github.com/Matejejko/GUI-sakura-Win/blob/main/codes/taskbar%20customization.txt)
 
