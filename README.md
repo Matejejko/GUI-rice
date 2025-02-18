@@ -5,7 +5,7 @@
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
-## Screenshots
+# Screenshots
 
 <p align="center">
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/1.png" />
@@ -17,7 +17,7 @@
 
 <br>
 
-## Dependecies
+# Dependecies
 
 <table><tr><td>
   <code>a</code><br><code>p</code><br><code>p</code><br><code>s</code><br></td><td><table>
@@ -41,7 +41,7 @@
   <tr><td>libastal-meta</td><td>ags widget library</td></tr></table>
 </td></tr></table>
 
-## Installation
+# Installation
 <div align = center>
   
 &ensp;[<kbd> <br> Windows settings <br> </kbd>](#Windows-settings)&ensp;
@@ -49,7 +49,7 @@
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
-### Windows-settings
+## Windows-settings
 
 <div align = center>
   
@@ -61,7 +61,7 @@
 <br><br></div>
 
 
-#### taskbar 
+### taskbar 
 
 right-click taskbar -> taskbar settings 
 
@@ -79,37 +79,49 @@ go more down ->  <br>
 - "show accent color on start and taskbar" -> on <br>
 - "show accent color on title bars and window borders" -> on
 
-#### wallpapers
+### wallpapers
 
 ... I'm trying to make this really eazy but i believe i dont need to go into such a detail ... <br>
 ps i need a recomendation to upload the live wallpaper please do send recomendation as to where to uploade it. :3
 
-#### lockscreen
+### lockscreen
 
 settings -> personalization -> lockscreen<br>
 <div align = center>
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr2.png" />
 <br><br></div>
 
-#### start
+### start
 
 again go to setting -> personalization -> start 
 <div align = center>
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr3.png" />
 <br><br></div>
 
-### Windhawk
+## Windhawk
+<div align = center>
+  
+&ensp;[<kbd> <br> Taskbar Clock Customization <br> </kbd>](#Taskbar-Clock-Customization)&ensp;
+&ensp;[<kbd> <br> Windows 11 Notification Center Styler <br> </kbd>](#Windows-11-Notification-Center-Styler)&ensp;
+&ensp;[<kbd> <br> Windows 11 Start Menu Styler <br> </kbd>](#Windows-11-Start-Menu-Styler)&ensp;
+&ensp;[<kbd> <br> Windows 11 Taskbar Styler <br> </kbd>](#Windows-11-Taskbar-Styler)&ensp;
+&ensp;[<kbd> <br> Taskbar height and icon size <br> </kbd>](#Taskbar-height-and-icon-size)&ensp;
+<br><br></div>
 
-install [here](https://windhawk.net)
+install the app [here](https://windhawk.net)
 
-here install
+in the app install
 
  - [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
  - [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
  - [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
  - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
  - [Taskbar height and icon size](https://windhawk.net/mods/taskbar-icon-size)
+<br>
 
+### Taskbar-height-and-icon-size
+
+go to setting and insert
 
 
 
