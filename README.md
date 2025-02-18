@@ -130,6 +130,11 @@ go to setting and insert
 ### taskbar-clock-customization
 so extract the "anurati-free-font.zip"
 
-go into "ANURATI Free Font" -> right click the "Anurati-Regular.otf" -> show more options -> install for all users   ❗ the font will work after reboot ❗
+go into "ANURATI Free Font" -> right click the "Anurati-Regular.otf" -> show more options -> install for all users   <br>
+<div align = center>❗ the font will work only after PC reboot ❗<div/>
+<br>
+
+then go to windhawk -> taskbar clock customization -> Advanced 
+There input
 
 
