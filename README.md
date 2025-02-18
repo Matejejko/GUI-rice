@@ -122,6 +122,8 @@ in the app install
 ### Taskbar-height-and-icon-size
 
 go to setting and insert
-
+<div align = center>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src4.png" />
+<br><br></div>
 
 
