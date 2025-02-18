@@ -197,7 +197,18 @@ There input text from codes/[taskbar customization.txt](https://github.com/Matej
 
 ## Files
 
-go [here](https://files.community/) -> press Download -> Classic installer
+go [here](https://files.community/) -> press Download -> Classic installer<br>
+<div align = center>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src7.png" />
+</div>
 
+once installed open the app<br>
+top right settings -> appearance <br>
+THEME - DARK
+BACKDROP - THIN ACRYLIC
+BACKGROUND COLOR - custom <br>
+<div align = center>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src7.png" />
+</div>
 
 
