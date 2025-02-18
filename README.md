@@ -1,11 +1,11 @@
 <div align = center>
 
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
-&ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
+&ensp;[<kbd> <br> Dependecies <br> </kbd>](#🌸Dependecies🌸)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
-# Screenshots
+# Screenshots <img src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/gift.git.gif" width="80px">
 
 <p align="center">
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/1.png" />
@@ -17,7 +17,7 @@
 
 <br>
 
-# Dependecies
+# 🌸Dependecies🌸
 
 <table><tr><td>
   <code>a</code><br><code>p</code><br><code>p</code><br><code>s</code><br></td><td><table>
@@ -41,7 +41,7 @@
   <tr><td>libastal-meta</td><td>ags widget library</td></tr></table>
 </td></tr></table>
 
-# Installation
+# 🌸 Installation 🌸
 <div align = center>
   
 &ensp;[<kbd> <br> Windows settings <br> </kbd>](#Windows-settings)&ensp;
@@ -49,7 +49,7 @@
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
-## Windows-settings
+## 🐉 Windows-settings 🐉
 
 <div align = center>
   
@@ -98,7 +98,7 @@ again go to setting -> personalization -> start
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr3.png" />
 <br><br></div>
 
-## Windhawk
+## 🐉 Windhawk 🐉
 <div align = center>
   
 &ensp;[<kbd> <br> Taskbar Clock Customization <br> </kbd>](#Taskbar-Clock-Customization)&ensp;
@@ -112,11 +112,12 @@ install the app [here](https://windhawk.net)
 
 in the app install
 
+ - [Taskbar height and icon size](https://windhawk.net/mods/taskbar-icon-size)
  - [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
  - [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
  - [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
  - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
- - [Taskbar height and icon size](https://windhawk.net/mods/taskbar-icon-size)
+ 
 <br>
 
 ### Taskbar-height-and-icon-size
@@ -125,5 +126,15 @@ go to setting and insert
 <div align = center>
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src4.png" />
 <br><br></div>
+
+### taskbar-clock-customization
+so extract the "anurati-free-font.zip"
+
+go into "ANURATI Free Font" -> right click the "Anurati-Regular.otf" -> show more options -> install for all users   <br>
+<div align = center>❗ the font will work only after PC reboot ❗<div/>
+<br>
+
+then go to windhawk -> taskbar clock customization -> Advanced 
+There input
 
 
