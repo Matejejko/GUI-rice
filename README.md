@@ -60,13 +60,21 @@
 &ensp;[<kbd> <br> wallpapers <br> </kbd>](#wallpaper)&ensp;
 &ensp;[<kbd> <br> lockscreen <br> </kbd>](#lockscreen)&ensp;
 &ensp;[<kbd> <br> start <br> </kbd>](#start)&ensp;
+&ensp;[<kbd> <br> mouse <br> </kbd>](#mouse)&ensp;
 <br><br></div>
 
 
 
 ### mouse
 
-extract the file [Bibata-Original-Ice-Right-Windows.zip]()
+extract the file "Bibata-Original-Ice-Right-Windows.zip" -> go inside it -> choose size (i use large) -> find install file 
+-> right click -> install -> (yes to any prompts)<br>
+<br>
+
+then mouse properties should open and apply it self <br>
+❗IF NOT go settings -> bluetooth & devices -> mouse -> scroll down -> additional mouse settings -> pointers -> and choose it❗
+
+
 ### taskbar 
 
 right-click taskbar -> taskbar settings 
