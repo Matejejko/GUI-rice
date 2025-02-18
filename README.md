@@ -7,10 +7,10 @@
 ## Screenshots
 
 <p align="center">
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/rdme/1.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/rdme/2.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/rdme/3.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/rdme/4.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/1.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/2.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/3.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/4.jpg" />
 
 </p>
 
