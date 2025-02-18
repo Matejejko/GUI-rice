@@ -56,6 +56,8 @@
 &ensp;[<kbd> <br> taskbar <br> </kbd>](#taskbar)&ensp;
 &ensp;[<kbd> <br> coloring <br> </kbd>](#coloring)&ensp;
 &ensp;[<kbd> <br> wallpapers <br> </kbd>](#wallpaper)&ensp;
+&ensp;[<kbd> <br> lockscreen <br> </kbd>](#lockscreen)&ensp;
+&ensp;[<kbd> <br> start <br> </kbd>](#start)&ensp;
 <br><br></div>
 
 
@@ -85,4 +87,12 @@ ps i need a recomendation to upload the live wallpaper please do send recomendat
 #### lockscreen
 
 settings -> personalization -> lockscreen<br>
+<div align = center>
+<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/Screenshot%202025-02-18%20164017.png" />
+<br><br></div>
+
+####start
+
+again go to setting -> personalization -> start 
+
 
