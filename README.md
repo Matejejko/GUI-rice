@@ -43,9 +43,19 @@
 
 ## Installation
 <div align = center>
-&ensp;[<kbd> <br> Windows settings <br> </kbd>](###Windows settings)&ensp;
+  
+&ensp;[<kbd> <br> Windows settings <br> </kbd>](#Windows-settings)&ensp;
 &ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
-### Windows settings
+### Windows-settings
+taskbar
+```
+right-click taskbar -> taskbar settings 
+```
+in there
+```
+
+```
+
