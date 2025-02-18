@@ -55,7 +55,7 @@
   
 &ensp;[<kbd> <br> taskbar <br> </kbd>](#taskbar)&ensp;
 &ensp;[<kbd> <br> coloring <br> </kbd>](#coloring)&ensp;
-&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> wallpapers <br> </kbd>](#wallpaper)&ensp;
 <br><br></div>
 
 
@@ -76,4 +76,13 @@ settings -> personalization -> colors -> accent color -> custom colors -> more -
 go more down ->  <br>
 - "show accent color on start and taskbar" -> on <br>
 - "show accent color on title bars and window borders" -> on
-          
+
+#### wallpapers
+
+... I'm trying to make this really eazy but i believe i dont need to go into such a detail ... <br>
+ps i need a recomendation to upload the live wallpaper please do send recomendation as to where to uploade it. :3
+
+#### lockscreen
+
+settings -> personalization -> lockscreen<br>
+
