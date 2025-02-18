@@ -5,17 +5,20 @@
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
-# Screenshots <img src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/gift.git.gif" width="80px">
+<div align="center">
+  
+# Screenshots
 
-<p align="center">
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/1.png" />
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/2.png" />
   <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/3.png" />
-  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/4.jpg" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/4.jpg" /><br>
+  <img src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/gift.git.gif" width="80px">
 
-</p>
+</div>
 
 <br>
+<div align = center>
 
 # Dependecies
 
@@ -33,19 +36,22 @@
 <table><tr><td>
   <code>r</code><br><code>i</code><br><code>c</code><br><code>e</code><br></td><td><table>
   <tr><td>main color</td><td>#655666</td></tr>
-  <tr><td>cursor theme</td><td>bibata cursor</td></tr>
+  <tr><td>cursor theme</td><td>Bibata Original Ice</td></tr>
   <tr><td>font</td><td>anurari</td></tr></table>
 </td></tr></table>
 
-# 🌸 Installation 🌸
+</div>
 <div align = center>
+  
+# Installation
+
   
 &ensp;[<kbd> <br> Windows settings <br> </kbd>](#Windows-settings)&ensp;
 &ensp;[<kbd> <br> Windhawk <br> </kbd>](#Windhawk)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
-## 🐉 Windows-settings 🐉
+## Windows-settings 
 
 <div align = center>
   
@@ -57,6 +63,10 @@
 <br><br></div>
 
 
+
+### mouse
+
+extract the file [Bibata-Original-Ice-Right-Windows.zip]()
 ### taskbar 
 
 right-click taskbar -> taskbar settings 
@@ -94,7 +104,7 @@ again go to setting -> personalization -> start
 <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/scr3.png" />
 <br><br></div>
 
-## 🐉 Windhawk 🐉
+## Windhawk
 <div align = center>
   
 &ensp;[<kbd> <br> Taskbar Clock Customization <br> </kbd>](#Taskbar-Clock-Customization)&ensp;
