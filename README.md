@@ -1,7 +1,19 @@
-![Screenshot 2025-02-18 102004](https://github.com/user-attachments/assets/0d3754c3-6777-42b0-bf84-9a7a9373efa2)
-![Screenshot 2025-02-18 103353](https://github.com/user-attachments/assets/ee575a36-8b74-4149-856d-fcd4c2f10d75)
-![Screenshot 2025-02-18 102029](https://github.com/user-attachments/assets/ef120d2b-1db3-4c36-b302-167c56099151)
-![Untitled](https://github.com/user-attachments/assets/9df75641-b45d-4860-89f0-0674fdf4bd7e)
-# Sakura Windows GUI setup
+&ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
+&ensp;[<kbd> <br> Keybindings <br> </kbd>](#Keybindings)&ensp;
+<br><br></div>
 
+## Screenshots
 
+<p align="center">
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/rdme/1.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/ink/repo/2.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/ink/repo/3.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/ink/repo/4.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/ink/repo/5.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/ink/repo/6.png" />
+  <img align="center" width="49%" src="https://raw.githubusercontent.com/qxb3/gruvbox.hypr/ink/repo/7.png" />
+</p>
+
+<br>
