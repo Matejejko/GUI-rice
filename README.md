@@ -1,3 +1,5 @@
+<div align = center>
+
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
 &ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
@@ -39,4 +41,11 @@
   <tr><td>libastal-meta</td><td>ags widget library</td></tr></table>
 </td></tr></table>
 
+## Installation
+<div align = center>
+&ensp;[<kbd> <br> Windows settings <br> </kbd>](###Windows settings)&ensp;
+&ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
+&ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+<br><br></div>
 
+### Windows settings
