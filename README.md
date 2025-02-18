@@ -1,7 +1,7 @@
 <div align = center>
 
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
-&ensp;[<kbd> <br> Dependecies <br> </kbd>](#🌸Dependecies🌸)&ensp;
+&ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-# 🌸Dependecies🌸
+# Dependecies
 
 <table><tr><td>
   <code>a</code><br><code>p</code><br><code>p</code><br><code>s</code><br></td><td><table>
@@ -33,12 +33,8 @@
 <table><tr><td>
   <code>r</code><br><code>i</code><br><code>c</code><br><code>e</code><br></td><td><table>
   <tr><td>main color</td><td>#655666</td></tr>
-  <tr><td>bibata-cursor-theme</td><td>bibata cursor</td></tr>
-  <tr><td>swww</td><td>wallpaper daemon</td></tr>
-  <tr><td>hyprlock</td><td>screen locker</td></tr>
-  <tr><td>hyprbars</td><td>hyprland bars plugin</td></tr>
-  <tr><td>aylurs-gtk-shell-git</td><td>ags</td></tr>
-  <tr><td>libastal-meta</td><td>ags widget library</td></tr></table>
+  <tr><td>cursor theme</td><td>bibata cursor</td></tr>
+  <tr><td>font</td><td>anurari</td></tr></table>
 </td></tr></table>
 
 # 🌸 Installation 🌸
