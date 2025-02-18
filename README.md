@@ -1,7 +1,7 @@
 <div align = center>
 
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
-&ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
+&ensp;[<kbd> <br> Dependecies <br> </kbd>](#🌸Dependecies🌸)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
 <br><br></div>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-# 🌸 Dependecies 🌸
+# 🌸Dependecies🌸
 
 <table><tr><td>
   <code>a</code><br><code>p</code><br><code>p</code><br><code>s</code><br></td><td><table>
