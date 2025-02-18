@@ -3,6 +3,7 @@
 &ensp;[<kbd> <br> Screenshots <br> </kbd>](#Screenshots)&ensp;
 &ensp;[<kbd> <br> Dependecies <br> </kbd>](#Dependecies)&ensp;
 &ensp;[<kbd> <br> Installation <br> </kbd>](#Installation)&ensp;
+&ensp;[<kbd> <br> Recomendations <br> </kbd>](#Recomendations)&ensp;
 <br><br></div>
 
 <div align="center">
@@ -204,11 +205,21 @@ go [here](https://files.community/) -> press Download -> Classic installer<br>
 
 once installed open the app<br>
 top right settings -> appearance <br>
-THEME - DARK
-BACKDROP - THIN ACRYLIC
+THEME - DARK <br>
+BACKDROP - THIN ACRYLIC<br>
 BACKGROUND COLOR - custom <br>
 <div align = center>
-<img align="center" width="49%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src7.png" />
+<img align="center" width="30%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src8.png" />
+</div>
+
+# Recomendations
+
+I'd recomend to install quality of life stuff<br>
+that would be:<br>
+- [Taskbar auto-hide when maximized](https://windhawk.net/mods/taskbar-auto-hide-when-maximized)   | can be bit buggy at beginning |<br>
+reasoning is this:<br>
+<div align = center>
+<img align="center" width="30%" src="https://raw.githubusercontent.com/Matejejko/GUI-sakura-Win/refs/heads/main/rdme/src8.png" />
 </div>
 
 
