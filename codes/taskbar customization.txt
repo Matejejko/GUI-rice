@@ -10,8 +10,10 @@
   "controlStyles[1].styles[1]": "Margin=0,2,0,3",
   "controlStyles[1].styles[2]": "BorderThickness=1",
   "controlStyles[1].styles[4]": "CornerRadius=20",
-  "controlStyles[1].styles[3]": "BorderBrush:=<SolidColorBrush Color=\"{ThemeResource SurfaceStrokeColorDefault}\"/>",
-  "controlStyles[1].styles[5]": "Background:=<AcrylicBrush FallbackColor=\"#BF655666\" />",
+"controlStyles[1].styles[3]": "BorderBrush:=<SolidColorBrush Color=\"#BF655666\"/>",
+"controlStyles[1].styles[5]": "Background:=<SolidColorBrush Color=\"#BF655666\" />", 
+
+
   "__comment__": "S T U F F  F O R  R I G H T  S I D E  S Y S T E M  T R A Y",
   "controlStyles[2].target": "Rectangle#BackgroundFill",
   "controlStyles[2].styles[0]": "Visibility=Collapsed",
@@ -47,5 +49,8 @@
   "controlStyles[15].target": "SystemTray.SystemTrayFrame",
   "controlStyles[15].styles[0]": "HorizontalAlignment=1",
   "__comment__2": "I T ' S  P O S I T I O N",
-  "controlStyles[15].styles[1]": "Margin=725,0,0,0"
+  "controlStyles[15].styles[1]": "Margin=725,0,0,0",
+  "theme": "",
+  "resourceVariables[0].variableKey": "",
+  "resourceVariables[0].value": ""
 }
